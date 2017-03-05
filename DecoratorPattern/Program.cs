@@ -18,7 +18,10 @@ namespace DecoratorPattern
             Console.WriteLine("\nCircle of red border");
             redCircle.Draw();
             Console.WriteLine("\nRectangle of red border");
-            redRectangle.Draw();            Console.ReadKey(true);
+            redRectangle.Draw();
+
+            Console.ReadKey(true);
+
         }
     }
 }
