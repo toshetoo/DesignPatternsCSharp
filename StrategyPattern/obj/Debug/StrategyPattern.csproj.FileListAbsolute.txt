@@ -1,0 +1,5 @@
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\StrategyPattern\bin\Debug\StrategyPattern.exe
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\StrategyPattern\bin\Debug\StrategyPattern.pdb
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\StrategyPattern\obj\Debug\StrategyPattern.exe
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\StrategyPattern\obj\Debug\StrategyPattern.pdb

@@ -1,0 +1,1 @@
+C:\Users\Todor Ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\FacadePattern\bin\Debug\FacadePattern.exe.config

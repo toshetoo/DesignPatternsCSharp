@@ -1,0 +1,6 @@
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\TemplatePattern\bin\Debug\TemplatePattern.exe
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\TemplatePattern\bin\Debug\TemplatePattern.pdb
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\TemplatePattern\obj\Debug\TemplatePattern.csprojResolveAssemblyReference.cache
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\TemplatePattern\obj\Debug\TemplatePattern.exe
+c:\users\todor ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\TemplatePattern\obj\Debug\TemplatePattern.pdb

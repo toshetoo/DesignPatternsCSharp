@@ -1,0 +1,5 @@
+C:\Users\Todor Ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\Todor Ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\Todor Ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\Todor Ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\Todor Ivanov\documents\visual studio 2015\Projects\DesignPatternsCSharp\FactoryPattern\obj\Debug\FactoryPattern.pdb
